@@ -1,1 +1,1 @@
-./code-server --auth adhemukhlis3 --port 8080
+./code-server/code-server --auth adhemukhlis123 --port 8080
