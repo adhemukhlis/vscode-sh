@@ -2,7 +2,7 @@
 
 ## Download
 ```
-wget https://github.com/adhemukhlis/vscode-sh/blob/master/vscode-install.sh && wget https://github.com/adhemukhlis/vscode-sh/blob/master/vscode-run.sh && chmod u+x ./vscode-install.sh && chmod u+x ./vscode-run.sh
+wget https://raw.githubusercontent.com/adhemukhlis/vscode-sh/master/vscode-install.sh && wget https://raw.githubusercontent.com/adhemukhlis/vscode-sh/master/vscode-run.sh && chmod u+x ./vscode-install.sh && chmod u+x ./vscode-run.sh
 ```
 ## Install
 ```
